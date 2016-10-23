@@ -18,6 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntegerListsStorage.h" />
+    <ClInclude Include="MyIntList.h" />
+    <ClInclude Include="StringUtils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IntegerListsStorage.cpp" />
+    <ClCompile Include="MyIntList.cpp" />
+    <ClCompile Include="StringUtils.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9543942D-B500-44CA-93A4-4788309D6B34}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
